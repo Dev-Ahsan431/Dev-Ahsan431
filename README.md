@@ -93,6 +93,7 @@ I keep detailed project write-ups on my portfolio — stack choices, what proble
 
 | Period | Role | Company |
 |---|---|---|
+| Jan 2026 - Present | Full Stack Developer | Inferexcore, Lahore |
 | Oct 2022 – Present | Backend Developer | Cipherox, Lahore |
 | Mar 2022 – Sep 2022 | Frontend Developer | Cipherox, Lahore |
 | May 2021 – Feb 2022 | Junior Graphics Designer | Brand Impressions, Lahore |
